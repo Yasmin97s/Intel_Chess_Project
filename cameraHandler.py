@@ -10,7 +10,7 @@ class cameraHandler:
   def __init__(self):
 
   # Replace the below URL with your own. Make sure to add "/shot.jpg" at last.
-    url = "http://192.168.68.103:8080/shot.jpg"
+    url = "http://:8080/shot.jpg"
 
   # While loop to continuously fetching data from the Url
     while True:
