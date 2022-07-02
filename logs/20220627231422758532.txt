@@ -1,0 +1,2 @@
+2022-06-27 23:14:22,759 Let's begin checkers game
+2022-06-27 23:14:22,763 Using proactor: IocpProactor
